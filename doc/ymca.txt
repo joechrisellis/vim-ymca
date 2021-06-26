@@ -1,0 +1,16 @@
+*ymca.txt*
+
+Author:  Joe Ellis
+License: Same terms as Vim itself (see |license|)
+
+
+INTRODUCTION                                    *ymca*
+
+Just for fun.
+
+
+BINDINGS                                        *ymca-bindings*
+
+*ymca*     It's fun to stay at the ...
+
+ vim:tw=78:ts=8:ft=help:norl:
